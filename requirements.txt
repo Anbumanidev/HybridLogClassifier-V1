@@ -1,0 +1,19 @@
+numpy
+pandas
+matplotlib
+
+# models
+sklearn
+xgboost
+sentence-transformers
+
+# required
+joblib
+
+graq
+dotenv
+
+streamlit
+fastapi
+uvicorn
+requests
